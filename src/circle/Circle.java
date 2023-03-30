@@ -9,6 +9,13 @@ public class Circle {
         this.color = color;
     }
 
+    public Circle(double radius) {
+    }
+
+    public Circle() {
+
+    }
+
     public double getRadius() {
         return radius;
     }
